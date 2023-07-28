@@ -10,3 +10,6 @@ https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia?resource=
 
 Conclusion
 This project demonstrates the ability of machine learning models to detect pneumonia from chest X-ray images. Future work could focus on improving the accuracy of the model.
+
+Click here to try my model, which can detect pneumonia from chest X-ray images. 
+https://teachablemachine.withgoogle.com/models/oWYpmE24L/
