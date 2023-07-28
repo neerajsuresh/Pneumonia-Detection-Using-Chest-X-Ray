@@ -17,8 +17,5 @@ This project demonstrates the ability of machine learning models to detect pneum
 Click here to try my model, which can detect pneumonia from chest X-ray images. 
 https://teachablemachine.withgoogle.com/models/oWYpmE24L/
 
-The model can be used in a variety of ways, including:
-
-Diagnosing pneumonia: Doctors can use the model to help them diagnose pneumonia in their patients.
-
-Developing a mobile app: Healthcare organizations can use the model to develop a mobile app that allows people to upload their chest X-ray images and get a prediction of whether they have pneumonia.
+Caution 
+This model is not a medical diagnosis tool. It should not be used to diagnose pneumonia or any other medical condition. It is intended for research purposes only. If you are concerned about your health, please consult a doctor.
