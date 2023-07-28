@@ -20,4 +20,5 @@ https://teachablemachine.withgoogle.com/models/oWYpmE24L/
 The model can be used in a variety of ways, including:
 
 Diagnosing pneumonia: Doctors can use the model to help them diagnose pneumonia in their patients.
+
 Developing a mobile app: Healthcare organizations can use the model to develop a mobile app that allows people to upload their chest X-ray images and get a prediction of whether they have pneumonia.
